@@ -1,2 +1,16 @@
-# Banner_1
-Este es unejemplo de un banner hecho en HTML y CSS
+## Descripción
+Este es un ejemplo de un banner hecho en HTML y CSS
+
+## Autor
+**Luis Viteri**
+
+* [LinkedIn](https://www.linkedin.com/in/luis-viteri-a47471243)
+* [Porfolio web]()
+
+## Ver ejemplo en vivo
+- []()
+## Instalación
+Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
+
+## Contratación
+Si quieres contratarme puedes escribirme a gmail.com para consultas
