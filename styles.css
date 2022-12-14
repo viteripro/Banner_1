@@ -39,6 +39,7 @@ input{
  	position: relative;
    	text-align: justify;
    	margin-top: 8em;
+   	margin-bottom: 8.5em;
 }
 
 .title{
@@ -66,7 +67,7 @@ input{
 footer{
 	background-color: #98a160;;
 	position: relative;
-	top: 4em;
+        padding:0.4em;
 }
 
 .icon{
