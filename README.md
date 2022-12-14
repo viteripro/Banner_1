@@ -8,7 +8,7 @@ Este es un ejemplo de un banner hecho en HTML y CSS
 * [Porfolio web]()
 
 ## Ver ejemplo en vivo
-- []()
+- [https://viteripro.github.io/Banner_1/](https://viteripro.github.io/Banner_1/)
 ## Instalación
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
 
